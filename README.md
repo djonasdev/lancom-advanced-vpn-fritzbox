@@ -12,46 +12,46 @@
 
 ## Profileinstellungen öffnen
 
-![](img\1.png)
+![1](img\1.png "1")
 
 ## Neues Profil hinzufügen
 
-![](img\2.png)
+![2](img\2.png "2")
 
 ## Neue IPsec Verbindung
 
-![](img\3.png)
+![3](img\3.png "3")
 
 ## Anzeigename im VPN Client
 
-![](img\4.png)
+![4](img\4.png "4")
 
 ## Verbindungsquelle wählen
 
-![](img\5.png)
+![5](img\5.png "5")
 
 ## MyFritz Adresse oder DynDNS eintragen
 
 Benutzername und Passwort entnehmen Sie bitte der Fritzbox (VPN Einstellungen des Benutzers)
 
-![](img\6.png)
+![6](img\6.png "6")
 
 ## Parameter wie folgt anpassen
 
-![](img\7.png)
+![7](img\7.png "7"
 
 ## Parameter wie folgt anpassen
 
 Pre-shared Key entnehmen Sie den Fritzbox Benutzer Einstellungen (VPN Einstellungen; wird automatisch erzeugt)
 
-![](img\8.png)
+![8](img\8.png "8")
 
 ## IP - Adresse
 
 Diese wird in der Fritzbox automatisch vergeben. Kann in der Fritzbox unter **Heimnetz -> Heimnetzübersicht -> Netzwerkverbindungen -> IP-Adresse** eingesehen werden!
 
-![](img\9.png)
+![9](img\9.png "9")
 
 ## Das Subnetz bestimmen das NICHT über den VPN geroutet werden soll. Hier das Subnetz des Clients bzw. der Fritzbox
 
-![](img\10.png)
+![10](img\10.png "10")
