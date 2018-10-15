@@ -38,7 +38,7 @@ Benutzername und Passwort entnehmen Sie bitte der Fritzbox (VPN Einstellungen de
 
 ## Parameter wie folgt anpassen
 
-![7](img/7.png "7"
+![7](img/7.png "7")
 
 ## Parameter wie folgt anpassen
 
